@@ -7,4 +7,4 @@ Dictionary = {
     "donde_viven":["Algorta", "Plen"]
 }
 
-print(Dictionary[edad])
+print(Dictionary['edad'])

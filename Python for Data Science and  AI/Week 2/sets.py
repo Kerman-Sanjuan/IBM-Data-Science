@@ -9,3 +9,5 @@ set.add("hola")
 print(set)
 set.add("hola")
 print(set)
+print('hola, vamos a ser unos pendejos')
+import t
