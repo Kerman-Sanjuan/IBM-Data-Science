@@ -7,6 +7,6 @@ set = {1,2,3,54,4,1,1,2,3,32,2}
 #OPERATIONS
 set.add("hola")
 print(set)
-set.add("hola")
+set.add("hol¡") 
 print(set)
-print('hola, vamos a ser unos pendejos')
+print('hola, vamos a ser unos pendejos')    
