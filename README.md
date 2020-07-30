@@ -1,2 +1,2 @@
 # IBM Data Science
-Here i post the IBM-Professional certificate code, i will be updatig.
+I will post here all the content i make about IBM Data-Science Professional certificate.
